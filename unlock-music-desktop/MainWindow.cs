@@ -22,7 +22,7 @@ namespace unlock_music_desktop
 
         public MainWindow()
         {
-            Title = "Unlock Music";
+            Title = "Unlock Music v1.7.0";
 
             Subtitle = "音乐解锁";
 
