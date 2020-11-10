@@ -5,6 +5,7 @@ https://github.com/NetDimension/NanUI
 进行封装方便在本地使用  
 
 项目为C#项目。  
+项目更新至unlock-music  v1.7.0
 
 如要更新内容  
 1.把unlock-music下载到本地后执行 npm run build ，构建输出为 dist 目录    

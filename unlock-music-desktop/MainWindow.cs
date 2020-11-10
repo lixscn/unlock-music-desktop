@@ -24,7 +24,7 @@ namespace unlock_music_desktop
         {
             Title = "Unlock Music v1.7.0";
 
-            Subtitle = "音乐解锁";
+            Subtitle = "音乐解锁"; 
 
             // 在此处设置窗口样式
             Size = new System.Drawing.Size(1024, 768);
